@@ -21,7 +21,7 @@
 
 - 📫 Me puedes contactar en **juliosierra299@gmail.com**
 
-- 🌱 Actualmente estoy aprendiendo **React.jsy y mas desarrollo web**
+- 🌱 Actualmente estoy aprendiendo **React.js y mas desarrollo web**
 
 <!-- - 🌐 Website [youdevs.com](youdevs.com) -->
 
