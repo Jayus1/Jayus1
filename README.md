@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Jayus</h1>
-    <h3 align="center"> ¡Hola! Soy Julio Sierra, un programador web apasionado originario de República Dominicana. Me especializo en el desarrollo de aplicaciones web utilizando el entorno .NET. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías para mejorar mi habilidad en la programación. También disfruto compartir mi conocimiento con la comunidad de desarrolladores y ayudar a otros a alcanzar sus objetivos. <strong>¡Bienvenido a mi perfil de GitHub!<strong></h3>
+    <h3 align="center"> Soy Julio Sierra, un desarrollador web dominicano apasionado por .NET. Tengo experiencia en el desarrollo de aplicaciones web y me gusta estar actualizado en las últimas tendencias. Me encanta compartir mi conocimiento y colaborar en proyectos de código abierto. <strong>¡Bienvenido a mi perfil de GitHub!<strong></h3>
 </div>
 
 
