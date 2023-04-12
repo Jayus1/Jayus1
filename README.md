@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Juleo</h1>
+    <h1 align="center">Hi 👋, I'm Jayus</h1>
     <h3 align="center"> ¡Hola! Soy Julio Sierra, un programador web apasionado originario de República Dominicana. Me especializo en el desarrollo de aplicaciones web utilizando el entorno .NET. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías para mejorar mi habilidad en la programación. También disfruto compartir mi conocimiento con la comunidad de desarrolladores y ayudar a otros a alcanzar sus objetivos. <strong>¡Bienvenido a mi perfil de GitHub!<strong></h3>
 </div>
 
@@ -39,5 +39,3 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer"  alt="MySQL" width="40" height="40"/>&nbsp;
       </div>
 </div>
-
----
