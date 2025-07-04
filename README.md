@@ -1,9 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Bienvenido 👋, soy Jayus</h1>
     <h3 align="center">
-Soy Julio Sierra, un Ingeniero en Sistemas Computacionales dominicano con una verdadera pasión por la programación, especialmente en el ecosistema .NET. Tengo experiencia desarrollando aplicaciones web y móviles utilizando tecnologías modernas como React, Flutter, y NestJS, tanto en el frontend como en el backend.
-
-Me esfuerzo por mantenerme actualizado con las últimas tendencias del desarrollo, y valoro mucho escribir código limpio, escalable y orientado al usuario. Disfruto compartir mi conocimiento, colaborar en proyectos de código abierto, y seguir aprendiendo constantemente a través de cursos y experiencias prácticas.
+Soy Julio Sierra, un ingeniero dominicano apasionado por .NET y el desarrollo de software. Tengo experiencia creando aplicaciones web y móviles con React, Flutter y NestJS. Me gusta mantenerme actualizado, compartir conocimiento y colaborar en proyectos de código abierto. ¡Bienvenido a mi perfil de GitHub!
         <strong>¡Bienvenido a mi perfil de GitHub!</strong>
     </h3>
 </div>
