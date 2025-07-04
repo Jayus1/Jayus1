@@ -1,27 +1,27 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Jayus</h1>
-    <h3 align="center"> Soy Julio Sierra, un desarrollador web dominicano apasionado por .NET. Tengo experiencia en el desarrollo de aplicaciones web y me gusta estar actualizado en las últimas tendencias. Me encanta compartir mi conocimiento y colaborar en proyectos de código abierto. <strong>¡Bienvenido a mi perfil de GitHub!<strong></h3>
-</div>
+    <h1 align="center">Bienvenido 👋, soy Jayus</h1>
+    <h3 align="center">
+Soy Julio Sierra, un Ingeniero en Sistemas Computacionales dominicano con una verdadera pasión por la programación, especialmente en el ecosistema .NET. Tengo experiencia desarrollando aplicaciones web y móviles utilizando tecnologías modernas como React, Flutter, y NestJS, tanto en el frontend como en el backend.
 
+Me esfuerzo por mantenerme actualizado con las últimas tendencias del desarrollo, y valoro mucho escribir código limpio, escalable y orientado al usuario. Disfruto compartir mi conocimiento, colaborar en proyectos de código abierto, y seguir aprendiendo constantemente a través de cursos y experiencias prácticas.
+        <strong>¡Bienvenido a mi perfil de GitHub!</strong>
+    </h3>
+</div>
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/julio-sierra-jimenez/" target="_blank">
-        <img src="https://img.shields.io/badge/Linkedin-Julio%20Sierra-informational"
-            alt="Linkedin Badge" />
+        <img src="https://img.shields.io/badge/LinkedIn-Julio%20Sierra-informational" alt="Linkedin Badge" />
     </a>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mi :
+### 👨‍💻 Sobre mí:
 
-<!-- - 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs) -->
-
-- 💬 Preguntame sobre **C#, ASP.Net, y Javascript**
-
+- 💬 Pregúntame sobre **C#**, **TypeScript**, **NestJS**, y **Flutter**
+- 🌱 Actualmente estoy aprendiendo **Flutter** y profundizando en el desarrollo mobile
 - 📫 Me puedes contactar en **juliosierra299@gmail.com**
-
-- 🌱 Actualmente estoy aprendiendo **React.js y mas desarrollo web**
+- 🤝 Abierto a colaborar en proyectos interesantes y de código abierto
 
 <!-- - 🌐 Website [youdevs.com](youdevs.com) -->
 
@@ -44,7 +44,5 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs"  alt="TypeScript" width="40" height="40"/>&nbsp;
         
         
-        
-        
-      </div>
+            
 </div>
